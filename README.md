@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💬 Ask me about PHP/Laravel issues
+💬 Ask me about Laravel
 
 📫 How to reach me: Discord: >> Harun✘NoJustice <<#7513
 
