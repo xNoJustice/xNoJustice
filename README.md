@@ -1,8 +1,7 @@
-### Hi there 👋
-
-💬 Ask me about PHP/Laravel issues
-📫 How to reach me: Discord: >> Harun✘NoJustice <<#7513
-🌱 I’m currently learning React
+### Hi there 👋 \n \n
+💬 Ask me about PHP/Laravel issues \n
+📫 How to reach me: Discord: >> Harun✘NoJustice <<#7513 \n
+🌱 I’m currently learning React \n
 <!--
 **xNoJustice/xNoJustice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
