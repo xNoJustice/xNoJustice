@@ -1,11 +1,11 @@
-<img src="https://github.com/xNoJustice/xNoJustice/blob/12ec272a3f57cc1bd3211b1f22781c7ee6073763/assets/dog.gif">
+<img alt="Dog" src="https://github.com/xNoJustice/xNoJustice/blob/12ec272a3f57cc1bd3211b1f22781c7ee6073763/assets/dog.gif" align="left" />
+
 ### Hi there 👋
 
 📫 How to reach me: Discord: >> Harun✘NoJustice <<#7513
 
-<img alt="User" src="https://github.com/xNoJustice/xNoJustice/blob/12ec272a3f57cc1bd3211b1f22781c7ee6073763/assets/user.gif" align="right"/>
-
 ### 🛠 &nbsp;Tech Stack
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
