@@ -19,5 +19,5 @@
 <!-- ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;  -->
 ![Profile views](https://gpvc.arturio.dev/xNoJustice)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xNoJustice&layout=compact)
-![xNoJustice's GitHub stats](https://github-readme-stats.vercel.app/api?username=xNoJustice&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xNoJustice&layout=compact)&nbsp;
+![xNoJustice's GitHub stats](https://github-readme-stats.vercel.app/api?username=xNoJustice&show_icons=true&theme=radical)&nbsp;
