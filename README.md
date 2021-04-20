@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-📫 How to reach me: Discord: >> Harun✘NoJustice <<#7513
+Discord: >> Harun✘NoJustice <<#7513
 
 ### 🛠 &nbsp;Languages and Tools:
 
@@ -20,3 +20,17 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;  -->
 ![Profile views](https://gpvc.arturio.dev/xNoJustice)
 ![xNoJustice's GitHub stats](https://github-readme-stats.vercel.app/api?username=xNoJustice&show_icons=true&theme=radical)&nbsp;
+
+## Public Projects : 
+- [Ready CSS Templates](https://github.com/xNoJustice/css-templates)&nbsp;
+- [JS Mini Games](https://github.com/xNoJustice/mini-games-js)&nbsp;
+- [JS Calculator](https://github.com/xNoJustice/calculator-js)&nbsp;
+- [React Cart App](https://github.com/xNoJustice/react-cart-app)&nbsp;
+- [React TicTacToe App](https://github.com/xNoJustice/react-tictactoe-app)&nbsp;
+- [React Calculator App](https://github.com/xNoJustice/react-calculator-app)&nbsp;
+- [React Countdown App](https://github.com/xNoJustice/react-countdown-app)&nbsp;
+- [0Projects](https://github.com/xNoJustice/free/blob/master/0Projects.md)&nbsp;
+- [Docker EN Cheatsheet](https://github.com/xNoJustice/free/blob/master/EN-Docker.md)&nbsp;
+- [Git EN Cheatsheet](https://github.com/xNoJustice/free/blob/master/EN-Git.md)&nbsp;
+- [Docker TR Cheatsheet](https://github.com/xNoJustice/free/blob/master/TR-Docker.md)&nbsp;
+- [Git TR Cheatsheet](https://github.com/xNoJustice/free/blob/master/TR-Git.md)&nbsp;
