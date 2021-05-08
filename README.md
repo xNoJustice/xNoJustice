@@ -20,7 +20,9 @@ Discord: >> Harun✘NoJustice <<#7513
 - [Ready CSS Templates](https://github.com/xNoJustice/css-templates)&nbsp;
 - [JS Mini Games](https://github.com/xNoJustice/mini-games-js)&nbsp;
 - [JS Calculator](https://github.com/xNoJustice/calculator-js)&nbsp;
-- [React Cart App](https://github.com/xNoJustice/react-cart-app)&nbsp;
+- [React Cart App](https://github.com/xNoJustice/react-cart-app)&nbsp;;
+- [React Todo App](https://github.com/xNoJustice/react-todo-app)&nbsp;;
+- [React Todo App2](https://github.com/xNoJustice/react-todo-app2)&nbsp;
 - [React TicTacToe App](https://github.com/xNoJustice/react-tictactoe-app)&nbsp;
 - [React Calculator App](https://github.com/xNoJustice/react-calculator-app)&nbsp;
 - [React Countdown App](https://github.com/xNoJustice/react-countdown-app)&nbsp;
