@@ -2,7 +2,9 @@
 
 ### Hi there 👋
 
-Discord: >> Harun✘NoJustice <<#7513
+<div>
+  <a href="https://discord.com/users/244473723363524608" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+</div>
 
 ### Frontend
 
