@@ -1,9 +1,10 @@
 <img alt="Dog" src="https://github.com/xNoJustice/xNoJustice/blob/12ec272a3f57cc1bd3211b1f22781c7ee6073763/assets/dog.gif" align="left" />
 
-### Hi there 👋
+### Hi there 👋 <a href="https://xnojustice-github-io.vercel.app" target="blank_">My Personal Website</a>
 
 <div>
   <a href="https://discord.com/users/244473723363524608" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="mailto:harunxnojustice@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 ### Frontend
@@ -26,22 +27,4 @@
 <div>
   <img alt="profile-views" src="https://gpvc.arturio.dev/xNoJustice" />
   <img alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=xNoJustice&show_icons=true&theme=radical" />
-</div>
-
-### Public Projects 
-<div>
-  <a href="https://github.com/xNoJustice/css-templates">Ready CSS Templates</a><br />
-  <a href="https://github.com/xNoJustice/mini-games-js">JS Mini Games</a><br />
-  <a href="https://github.com/xNoJustice/calculator-js">JS Calculator</a><br />
-  <a href="https://github.com/xNoJustice/react-cart-app">React Cart App</a><br />
-  <a href="https://github.com/xNoJustice/react-todo-app">React Todo App</a><br />
-  <a href="https://github.com/xNoJustice/react-todo-app2">React Todo App2</a><br />
-  <a href="https://github.com/xNoJustice/react-tictactoe-app">React TicTacToe App</a><br />
-  <a href="https://github.com/xNoJustice/react-calculator-app">React Calculator App</a><br />
-  <a href="https://github.com/xNoJustice/react-countdown-app">React Countdown App</a><br />
-  <a href="https://github.com/xNoJustice/free/blob/master/0Projects.md">0Projects</a><br />
-  <a href="https://github.com/xNoJustice/free/blob/master/EN-Docker.md">Docker EN Cheatsheet</a><br />
-  <a href="https://github.com/xNoJustice/free/blob/master/EN-Git.md">Git EN Cheatsheet</a><br />
-  <a href="https://github.com/xNoJustice/free/blob/master/TR-Docker.md">Docker TR Cheatsheet</a><br />
-  <a href="https://github.com/xNoJustice/free/blob/master/TR-Git.md">Git TR Cheatsheet</a><br />
 </div>
