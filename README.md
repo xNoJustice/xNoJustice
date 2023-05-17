@@ -5,7 +5,7 @@
 <div>
   <a href="https://discord.com/users/244473723363524608" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="mailto:harunxnojustice@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://xnojustice-github-io.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+  <a href="https://xnojustice.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
 </div>
 
 ### Frontend
