@@ -26,6 +26,9 @@
 </div>
 
 <div>
-  <img alt="profile-views" src="https://gpvc.arturio.dev/xNoJustice" />
+  <img alt="xNoJustice" src="https://komarev.com/ghpvc/?username=xNoJustice&label=Profile%20views&color=0e75b6&style=flat" />
   <img alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=xNoJustice&show_icons=true&theme=radical" />
 </div>
+
+
+
